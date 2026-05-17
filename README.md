@@ -59,7 +59,7 @@ Aplikasi manajemen administrasi RW yang memudahkan warga dalam pengurusan surat,
 
 **Warga (Contoh jika sudah diinput):**
 - Username: `[NIK]`
-- Password: `warga123`
+- Password: `tahun-bulan-tanggal`
 
 ---
 *Dibuat untuk memodernisasi administrasi lingkungan RW.*
