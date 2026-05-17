@@ -37,7 +37,7 @@ Aplikasi manajemen administrasi RW yang memudahkan warga dalam pengurusan surat,
 
 1. **Clone atau Download** source code ini ke folder server Anda (contoh: `C:/laragon/www/sistem-rw`).
 2. **Buat Database** baru di MySQL dengan nama `sistem_rw`.
-3. **Import SQL** file `database.sql` ke database `sistem_rw`.
+3. **Import SQL** file `sistem_rw`.
 4. **Konfigurasi Base URL** di `application/config/config.php`:
    ```php
    $config['base_url'] = 'http://localhost/sistem-rw/';
